@@ -63,8 +63,8 @@ Your portfolio will open at: **[http://localhost:5173](http://localhost:5173)** 
 ## 🤝 Contact Me
 
 * **Email:** [kshitij.raj55@gmail.com](mailto:kshitij.raj55@gmail.com)
-* **LinkedIn:** your-linkedin-url
-* **GitHub:** your-github-url
+* **LinkedIn:** [linkedin.com/in/kshitij-raj-shukla](https://www.linkedin.com/in/kshitij-raj-shukla/)
+* **GitHub:** [github.com/kshitij-raj-shukla](https://github.com/kshitij-raj-shukla)
 
 Feel free to reach out for collaboration, freelance work, or opportunities!
 

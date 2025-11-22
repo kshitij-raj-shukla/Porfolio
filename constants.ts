@@ -15,7 +15,7 @@ export const PROJECTS: Project[] = [
     tech: ['React', 'Node.js', 'Express', 'Machine Learning'],
     color: '#dc2626', // Red
     github: 'https://github.com/kshitij-raj-shukla/StockX',
-    demo: 'https://github.com/kshitij-raj-shukla/StockX'
+    // demo: 'https://github.com/kshitij-raj-shukla/StockX'
   },
   {
     id: 2,

@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
   {
     id: 3,
     title: 'Khabar (Fake News Detection)',
-    description: 'AI system classifying Hindi, Hinglish, and English news as Real or Fake using NLP and Transformer-based models.',
+    description: 'AI system classifying Hindi, Hinglish, and English news as Real or Fake using Regression models.',
     tech: ['Regression Models', 'Python',],
     color: '#ef4444', // Light Red
     github: 'https://github.com/kshitij-raj-shukla/fake-news-detector',

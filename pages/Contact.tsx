@@ -16,14 +16,14 @@ const Contact: React.FC = () => {
     // 1. Sign up at https://www.emailjs.com/ (it's free)
     // 2. Create a service (e.g., Gmail) and a template
     // 3. Replace the values below with your actual keys
-    const SERVICE_ID = 'YOUR_SERVICE_ID'; 
-    const TEMPLATE_ID = 'YOUR_TEMPLATE_ID';
-    const PUBLIC_KEY = 'YOUR_PUBLIC_KEY';
+    const SERVICE_ID = 'service_ddrrhtt'; 
+    const TEMPLATE_ID = 'template_0096rsc';
+    const PUBLIC_KEY = 'SGYdOz9EP_SawwoTV';
     
-    const TARGET_EMAIL = 'kshitij.raj55@gmail.com';
+    const TARGET_EMAIL = 'kshitij.raj.shukla.23@gmail.com';
 
     // Check if keys are set, otherwise use Mailto fallback
-    if (SERVICE_ID === 'YOUR_SERVICE_ID') {
+    if (SERVICE_ID === 'service_ddrrhtt') {
         // Fallback: Open default mail client
         const formData = new FormData(formRef.current!);
         const name = formData.get('user_name') as string;
@@ -115,7 +115,7 @@ const Contact: React.FC = () => {
           <div className="space-y-6">
             {[
               { icon: Mail, title: 'Email', value: 'kshitij.raj55@gmail.com' },
-              { icon: Phone, title: 'Phone', value: '+91 98765 43210' },
+              { icon: Phone, title: 'Phone', value: '+91 85580 90489' },
               { icon: MapPin, title: 'Location', value: 'India' },
             ].map((item, i) => (
               <motion.div 

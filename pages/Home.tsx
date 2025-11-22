@@ -97,8 +97,8 @@ const Home: React.FC = () => {
 
           <div className="flex gap-6 justify-center lg:justify-start">
             {[
-              { icon: Github, href: "https://github.com" },
-              { icon: Linkedin, href: "https://linkedin.com" },
+              { icon: Github, href: "https://github.com/kshitij-raj-shukla" },
+              { icon: Linkedin, href: "https://www.linkedin.com/in/kshitij-raj-shukla/" },
               { icon: Mail, href: "mailto:kshitij.raj55@gmail.com" }
             ].map((Social, idx) => (
               <motion.a

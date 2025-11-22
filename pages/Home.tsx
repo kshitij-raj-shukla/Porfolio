@@ -44,11 +44,11 @@ const Home: React.FC = () => {
             className="w-32 h-32 md:w-40 md:h-40 mb-8 rounded-full p-1 bg-gradient-to-r from-red-600 via-red-500 to-orange-500 mx-auto lg:mx-0 relative group shadow-[0_0_30px_rgba(220,38,38,0.3)]"
           >
              <div className="w-full h-full rounded-full bg-gray-900 flex items-center justify-center overflow-hidden relative">
-                <img 
-                  src="https://ibb.co/d4xtnPfv" 
+                <a href="https://ibb.co/d4xtnPfv"><img 
+                  src="https://i.ibb.co/0yvKPCnL/mes2.png" 
                   alt="Kshitij Raj Shukla" 
                   className="w-full h-full object-cover opacity-90 group-hover:opacity-100 group-hover:scale-110 transition-all duration-500"
-                />
+                /></a>
              </div>
           </motion.div>
 
@@ -82,7 +82,7 @@ const Home: React.FC = () => {
                 <div className="absolute inset-0 bg-red-500 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-300"></div>
               </button>
             </Link>
-            <a href="https://drive.google.com/file/d/1P7_kNW2iQ_d48gtFGUTWsD6kC4UM74L6/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/uc?export=download&id=1P7_kNW2iQ_d48gtFGUTWsD6kC4UM74L6" target="_blank" rel="noopener noreferrer">
               <button className="px-8 py-3 border border-red-500/20 hover:bg-red-500/10 dark:text-white text-black rounded-full font-medium transition-all backdrop-blur-sm flex items-center gap-2">
                 <span>Resume</span>
                 <FileText className="w-4 h-4" />

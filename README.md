@@ -62,7 +62,7 @@ Your portfolio will open at: **[http://localhost:5173](http://localhost:5173)** 
 
 ## 🤝 Contact Me
 
-* **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
+* **Email:** [kshitij.raj55@gmail.com](mailto:kshitij.raj55@gmail.com)
 * **LinkedIn:** your-linkedin-url
 * **GitHub:** your-github-url
 

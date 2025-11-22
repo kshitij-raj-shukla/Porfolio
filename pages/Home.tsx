@@ -45,7 +45,7 @@ const Home: React.FC = () => {
           >
              <div className="w-full h-full rounded-full bg-gray-900 flex items-center justify-center overflow-hidden relative">
                 <img 
-                  src="../mes2.png" 
+                  src="https://ibb.co/d4xtnPfv" 
                   alt="Kshitij Raj Shukla" 
                   className="w-full h-full object-cover opacity-90 group-hover:opacity-100 group-hover:scale-110 transition-all duration-500"
                 />

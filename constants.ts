@@ -12,7 +12,7 @@ export const PROJECTS: Project[] = [
     id: 1,
     title: 'Stock-X-Master',
     description: 'A complete stock-market simulation app. Features real-time pricing, authentication, portfolio tracking, ML forecast module, and admin dashboard.',
-    tech: ['React', 'Node.js', 'Express', 'Machine Learning'],
+    tech: ['React.js', 'Node.js', 'Express.js', 'Machine Learning'],
     color: '#dc2626', // Red
     github: 'https://github.com/kshitij-raj-shukla/StockX',
     // demo: 'https://github.com/kshitij-raj-shukla/StockX'
@@ -21,7 +21,7 @@ export const PROJECTS: Project[] = [
     id: 2,
     title: 'Employee Attendance System',
     description: 'Backend system handling authentication, attendance marking, and admin operations with proper controllers and middleware.',
-    tech: ['Node.js', 'MySQL', 'Express.js'],
+    tech: ['Node.js', 'MySQL', 'Express.js','React.js'],
     color: '#b91c1c', // Dark Red
     github: 'https://github.com/kshitij-raj-shukla/Employee_Manegment',
   },
@@ -29,7 +29,7 @@ export const PROJECTS: Project[] = [
     id: 3,
     title: 'Khabar (Fake News Detection)',
     description: 'AI system classifying Hindi, Hinglish, and English news as Real or Fake using NLP and Transformer-based models.',
-    tech: ['NLP', 'Transformers', 'Python', 'React'],
+    tech: ['Regression Models', 'Python',],
     color: '#ef4444', // Light Red
     github: 'https://github.com/kshitij-raj-shukla/fake-news-detector',
   }

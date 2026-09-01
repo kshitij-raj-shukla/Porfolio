@@ -82,7 +82,7 @@ const Home: React.FC = () => {
                 <div className="absolute inset-0 bg-red-500 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-300"></div>
               </button>
             </Link>
-            <a href="https://drive.google.com/uc?export=download&id=1P7_kNW2iQ_d48gtFGUTWsD6kC4UM74L6" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/18gqqhRXp2WWGpHaLDc5yhYgZaXXPeOjd/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               <button className="px-8 py-3 border border-red-500/20 hover:bg-red-500/10 dark:text-white text-black rounded-full font-medium transition-all backdrop-blur-sm flex items-center gap-2">
                 <span>Resume</span>
                 <FileText className="w-4 h-4" />
